@@ -1,0 +1,236 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": [
+        "Python",
+        "React",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "E-commerce Platform",
+        "Healthcare Dashboard"
+      ],
+      "availability": "available",
+      "notes": "Strong full-stack with AWS"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "skills": [
+        "Python",
+        "scikit-learn",
+        "Pandas",
+        "Docker"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Patient Risk Prediction",
+        "Fraud Detection"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Sarah Chen",
+      "skills": [
+        "TensorFlow",
+        "PyTorch",
+        "Computer Vision",
+        "Python"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Medical Diagnosis Platform",
+        "Retail Vision QA"
+      ],
+      "availability": "available",
+      "notes": "Published 3 papers in healthcare AI"
+    },
+    {
+      "id": 4,
+      "name": "Ravi Kumar",
+      "skills": [
+        "React Native",
+        "Node",
+        "Firebase"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Food Delivery App",
+        "Chat App"
+      ],
+      "availability": "notice"
+    },
+    {
+      "id": 5,
+      "name": "Priya Singh",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Cloud Migration",
+        "DevOps Tooling"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 6,
+      "name": "David Lee",
+      "skills": [
+        "NLP",
+        "Transformers",
+        "HuggingFace",
+        "Python"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Document Q&A",
+        "Chatbot Platform"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 7,
+      "name": "Ananya Gupta",
+      "skills": [
+        "SQL",
+        "Spark",
+        "Airflow",
+        "GCP"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Data Lakehouse",
+        "ETL Modernization"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 8,
+      "name": "Tom Williams",
+      "skills": [
+        "Django",
+        "Flask",
+        "PostgreSQL"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "HRMS Backend",
+        "API Gateway"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 9,
+      "name": "Neha Patel",
+      "skills": [
+        "React",
+        "TypeScript",
+        "UX"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Analytics Dashboard",
+        "Design System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 10,
+      "name": "Luis Garcia",
+      "skills": [
+        "PyTorch",
+        "Computer Vision",
+        "FastAPI"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Defect Detection",
+        "OCR Pipeline"
+      ],
+      "availability": "notice"
+    },
+    {
+      "id": 11,
+      "name": "Isha Sharma",
+      "skills": [
+        "AWS",
+        "Lambda",
+        "SageMaker",
+        "MLflow"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "MLOps Platform",
+        "Model Registry"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 12,
+      "name": "Omar Farouk",
+      "skills": [
+        "Kafka",
+        "Spark",
+        "Scala"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Real-time Streaming",
+        "Clickstream"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Jenny Park",
+      "skills": [
+        "FAISS",
+        "Vector DB",
+        "NLP"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "RAG Search",
+        "QA System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 14,
+      "name": "Rahul Mehta",
+      "skills": [
+        "Azure",
+        "Databricks",
+        "SQL"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Data Warehouse",
+        "BI"
+      ],
+      "availability": "notice"
+    },
+    {
+      "id": 15,
+      "name": "Meera Iyer",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "Helm"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Microservices Platform",
+        "CICD"
+      ],
+      "availability": "available"
+    }
+  ]
+}
